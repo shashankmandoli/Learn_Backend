@@ -8,7 +8,7 @@ const videoSchema = new mongoose.Schema({
     },
     thumbnail: {
         type: String, // Cloudinary url
-        reqired: true
+        required: true
     },
     title: {
         type: String,
@@ -26,7 +26,7 @@ const videoSchema = new mongoose.Schema({
         type: Number,
         default: 0
     },
-    isPublushed: {
+    isPublished: {
         type: Boolean,
         default: true
     },
