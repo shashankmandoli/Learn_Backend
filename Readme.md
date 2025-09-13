@@ -19,7 +19,3 @@ I’m following the [**“Chai aur Javascript Backend | Hindi”** YouTube playl
 - **Database:** MongoDB (with Mongoose)  
 - **Other Tools:** Postman (for API testing), Nodemon (for live reloading), Git & GitHub  
 
----
-
-## 📂 Repository Structure  
-
